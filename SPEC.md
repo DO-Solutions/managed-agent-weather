@@ -1,9 +1,5 @@
 # SPEC.md — Airport Weather App
 
-## Purpose
-
-This is a small, fully functional web app used to acceptance-test an autonomous coding agent platform end to end. The goal is not the app itself. The goal is to exercise the full loop: the agent builds real software, runs it locally, and ships it to a live URL, with as little human babysitting as possible. Keep the app simple so that anything that breaks points at the platform, not at app complexity.
-
 ## What the app does
 
 A user types an airport code (IATA, e.g. `BOS`, `JFK`, `LAX`). The app shows:
